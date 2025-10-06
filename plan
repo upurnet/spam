@@ -164,7 +164,7 @@ local function queueScript()
 wait(0.5)
 print("Restarting script from queue...")
 pcall(function()
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/sulwtf/spam/main/plan.lua"))()
+    loadstring(game:HttpGet("https://github.com/upurnet/spam/edit/main/plan"))()
 end)
 ]])
     else
