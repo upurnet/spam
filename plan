@@ -142,20 +142,20 @@ end
 local queueteleport = queue_on_teleport or (syn and syn.queue_on_teleport) or (fluxus and fluxus.queue_on_teleport)
 
 local messages = {
-    "ageplayer heaven in /uses",
-    "cnc and ageplay in vcs /uses",
-    "get active /personal",
-    "cnc and ageplay in vcs /uses",
-    "join the new /uses",
-    "camgir1s in /uses jvc",
-    "›	›	vygc blue for promotion just like this",
-	"yo jvc rn she going crazy /uses",
-	"add vygc for a present :)",
-	"YO WHAT ARE THEY DOING ON CAM /uses",
-	"›	›	add vygc for nitro haha",
-	"STAG3 GIRLS IN /uses",
-	"BRO WHAT IS SHE DOING ON CAM /uses",
-	"›	›  vygc if you wanna make $$"
+    "ageplayer heaven in /verb",
+    "cnc and ageplay in vcs /verb",
+    "get active /verb",
+    "cnc and ageplay in vcs /verb",
+    "join the new /verb",
+    "camgir1s in /verb jvc",
+    "›	›	intelboss blue for promotion just like this",
+	"yo jvc rn she going crazy /verb",
+	"add intelboss for a present :)",
+	"YO WHAT ARE THEY DOING ON CAM /verb",
+	"›	›	add intelboss for nitro haha",
+	"STAG3 GIRLS IN /verb",
+	"BRO WHAT IS SHE DOING ON CAM /verb",
+	"›	›  intelboss if you wanna make $$"
 }
 
 local function queueScript()
